@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# IDE
+.vscode/
+
+# Generated artwork
+artwork_*.png
+
+# Logs
+*.log
+
+# Environment variables
+.env

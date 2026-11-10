@@ -37,26 +37,16 @@ These are real screenshots captured from the running Gesture Art Studio applicat
 
 ### 1. Real-Time Hand Tracking & Fire Effect
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="assets/screenshots/01-hand-tracking-fire.png" width="85%" alt="Real-time hand tracking and fire particles" />
+  <img src="assets/01-hand-tracking-fire.png" width="48%" alt="Hand Tracking and Fire Effect">
+  <img src="assets/02-magic-energy-rings.png" width="48%" alt="Magic Burst and Energy Rings">
 </p>
 
-### 2. Magic Burst & Energy Rings
-
 <p align="center">
-  <img src="assets/screenshots/02-magic-energy-rings.png" width="85%" alt="Magic burst with glowing energy rings" />
-</p>
-
-### 3. Gesture-Based Rectangle Drawing
-
-<p align="center">
-  <img src="assets/screenshots/03-rectangle-drawing.png" width="85%" alt="Rectangle drawing using hand gestures" />
-</p>
-
-### 4. Interactive Star Shape Drawing
-
-<p align="center">
-  <img src="assets/screenshots/04-star-shape-drawing.png" width="85%" alt="Star shape drawing using hand gestures" />
+  <img src="assets/03-rectangle-drawing.png" width="48%" alt="Rectangle Drawing">
+  <img src="assets/04-star-shape-drawing.png" width="48%" alt="Star Shape Drawing">
 </p>
 
 ---
